@@ -1,2 +1,2 @@
 # Website2.0
-redo of porfolio website
+Redo of porfolio website
